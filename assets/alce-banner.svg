@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">ALCE - Network Infrastructure Security</title>
+<desc id="desc">Dark blue futuristic networking-themed banner with typography and abstract interconnected network devices.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0A1020"/>
+    <stop offset="60%" stop-color="#0B1224"/>
+    <stop offset="100%" stop-color="#15122E"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#55E6E8"/>
+    <stop offset="60%" stop-color="#49ABFF"/>
+    <stop offset="100%" stop-color="#B589FF"/>
+  </linearGradient>
+  <linearGradient id="accent2" x1="0" y1="1" x2="1" y2="0">
+    <stop offset="0%" stop-color="#20C4B8"/>
+    <stop offset="100%" stop-color="#9C70FD"/>
+  </linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#273451" stroke-width="0.8" opacity="0.42"/>
+  </pattern>
+  <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="canvas"><rect width="1200" height="350" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#canvas)">
+  <rect width="1200" height="350" fill="url(#background)"/>
+  <rect width="1200" height="350" fill="url(#grid)"/>
+  <circle cx="1035" cy="160" r="280" fill="#6347AB" opacity="0.075"/>
+  <circle cx="1110" cy="60" r="165" fill="#49ABFF" opacity="0.055"/>
+  <path d="M 0 0 H 1200" stroke="url(#accent)" stroke-width="5" opacity=".85"/>
+  <rect x="41" y="51" width="12" height="12" rx="2" fill="#54E9E4"/>
+  <text x="64" y="62" font-family="DejaVu Sans Mono, monospace" font-size="16" font-weight="600" fill="#A7C0D6" letter-spacing="2">ALCE1551 / NETWORK OPERATIONS</text>
+  <text x="44" y="152" font-family="DejaVu Sans, sans-serif" font-size="78" font-weight="800" fill="#EDF7FF" letter-spacing="-1">ALCE</text>
+  <text x="267" y="151" font-family="DejaVu Sans Mono, monospace" font-size="45" font-weight="600" fill="#53DDD9">_1551</text>
+  <rect x="45" y="179" width="440" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="45" y="222" font-family="DejaVu Sans, sans-serif" font-size="21" font-weight="600" fill="#DCE8FF">NETWORKS  /  INFRASTRUCTURE  /  SECURITY</text>
+  <text x="45" y="258" font-family="DejaVu Sans Mono, monospace" font-size="15" fill="#9DB0CB">build  ·  validate  ·  document  ·  improve</text>
+  <rect x="44" y="289" width="319" height="34" rx="10" fill="#142B3A" stroke="#35637E" stroke-width="1"/>
+  <circle cx="65" cy="306" r="5" fill="#53E8B5"/>
+  <text x="82" y="311" font-family="DejaVu Sans Mono, monospace" font-size="13" font-weight="600" fill="#BCEDE0">SYSTEMS UNDER CONSTRUCTION</text>
+  <!-- topology area -->
+  <rect x="652" y="36" width="507" height="278" rx="17" fill="#0C1831" opacity=".77" stroke="#334363" stroke-width="1.3"/>
+  <text x="676" y="61" font-family="DejaVu Sans Mono, monospace" font-size="12" fill="#8097B8" letter-spacing="1.1">TOPOLOGY / LOGICAL VIEW</text>
+  <circle cx="1133" cy="53" r="4" fill="#55E6E8"/><circle cx="1117" cy="53" r="4" fill="#917CFB"/><circle cx="1101" cy="53" r="4" fill="#3A597B"/>
+  <!-- edges -->
+  <g fill="none" stroke="#4CAFD9" stroke-width="2.1" opacity=".84">
+    <path d="M 740 155 H 816"/>
+    <path d="M 879 155 H 958"/>
+    <path d="M 1013 154 H 1081"/>
+    <path d="M 847 179 V 231 H 970 V 211" stroke="#7B78D9"/>
+    <path d="M 847 179 V 248 H 1090 V 213" stroke="#3B84AB" stroke-dasharray="5 6" opacity=".6"/>
+  </g>
+  <!-- edge dots -->
+  <circle cx="781" cy="155" r="3" fill="#67EBE4"/>
+  <circle cx="917" cy="155" r="3" fill="#67EBE4"/>
+  <circle cx="1046" cy="154" r="3" fill="#A98CFD"/>
+  <!-- nodes -->
+  <g stroke-width="2" fill="#101E37">
+    <rect x="678" y="119" width="65" height="72" rx="13" stroke="#50DFDB"/>
+    <rect x="817" y="119" width="65" height="72" rx="13" stroke="#5CBAFA"/>
+    <rect x="958" y="119" width="65" height="72" rx="13" stroke="#8A9CFB"/>
+    <rect x="1080" y="119" width="58" height="72" rx="13" stroke="#A888FF"/>
+  </g>
+  <!-- shield -->
+  <path d="M 711 133 L 726 140 V 154 Q 724 164 711 172 Q 698 164 696 154 V 140 Z" fill="none" stroke="#56F0E6" stroke-width="2.6"/>
+  <path d="M 704 152 L 710 158 L 720 147" fill="none" stroke="#55E1C7" stroke-width="2.6" stroke-linecap="round"/>
+  <!-- switch -->
+  <rect x="831" y="143" width="38" height="24" rx="4" fill="none" stroke="#76C4FF" stroke-width="2"/>
+  <circle cx="839" cy="155" r="2.5" fill="#5CD9C7"/>
+  <circle cx="848" cy="155" r="2.5" fill="#5CD9C7"/>
+  <circle cx="857" cy="155" r="2.5" fill="#5CD9C7"/>
+  <path d="M 833 160 H 866" stroke="#5ABCF0" opacity=".8"/>
+  <!-- server -->
+  <rect x="975" y="137" width="31" height="12" rx="2" fill="none" stroke="#AFB3FF" stroke-width="2"/>
+  <rect x="975" y="154" width="31" height="12" rx="2" fill="none" stroke="#AFB3FF" stroke-width="2"/>
+  <circle cx="981" cy="143" r="2" fill="#64E8C4"/><circle cx="981" cy="160" r="2" fill="#64E8C4"/>
+  <!-- graph -->
+  <path d="M 1091 165 L 1098 153 L 1105 156 L 1111 143 L 1122 148" stroke="#B7A0FF" stroke-width="2.3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="710" y="209" fill="#A6BDCE" font-family="DejaVu Sans Mono,monospace" font-size="11" text-anchor="middle">FIREWALL</text>
+  <text x="850" y="209" fill="#A6BDCE" font-family="DejaVu Sans Mono,monospace" font-size="11" text-anchor="middle">SWITCH</text>
+  <text x="990" y="209" fill="#A6BDCE" font-family="DejaVu Sans Mono,monospace" font-size="11" text-anchor="middle">VIRTUAL</text>
+  <text x="1109" y="209" fill="#A6BDCE" font-family="DejaVu Sans Mono,monospace" font-size="11" text-anchor="middle">OBSERVE</text>
+  <rect x="676" y="274" width="457" height="24" rx="8" fill="#13253E" stroke="#2F4667" stroke-width="1"/>
+  <text x="694" y="291" fill="#9EB8D2" font-family="DejaVu Sans Mono,monospace" font-size="12">01 DESIGN</text>
+  <text x="817" y="291" fill="#9EB8D2" font-family="DejaVu Sans Mono,monospace" font-size="12">02 DEPLOY</text>
+  <text x="938" y="291" fill="#9EB8D2" font-family="DejaVu Sans Mono,monospace" font-size="12">03 VERIFY</text>
+  <text x="1055" y="291" fill="#9EB8D2" font-family="DejaVu Sans Mono,monospace" font-size="12">04 LOG</text>
+</g>
+</svg>
