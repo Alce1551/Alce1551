@@ -16,13 +16,6 @@ Soy **Alce**. Me interesan las **redes empresariales, la infraestructura, la vir
 
 Actualmente curso una **maestría orientada a la gestión de tecnologías de información** y enfoco mi desarrollo profesional en **Network Operations (NOC), infraestructura TI y la transición hacia Blue Team / SOC**.
 
-```text
-alce@infra:~$ cat principles.txt
-> Build with intention.
-> Verify with evidence.
-> Document for the next engineer.
-```
-
 ### `> stack --focus`
 
 | Dominio | Tecnologías y prácticas |
