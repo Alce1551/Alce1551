@@ -12,7 +12,7 @@
 
 ### `> whoami`
 
-Soy **Alce**. Me interesan las **redes empresariales, la infraestructura, la virtualización y la ciberseguridad **. Construyo entornos de práctica, verifico su comportamiento y documento cómo funcionan, qué falló y cómo se resolvió.
+Soy **Alce**. Me interesan las **redes empresariales, la infraestructura, la virtualización y la ciberseguridad**. Construyo entornos de práctica, verifico su comportamiento y documento cómo funcionan, qué falló y cómo se resolvió.
 
 Actualmente curso una **maestría orientada a la gestión de tecnologías de información** y enfoco mi desarrollo profesional en **Network Operations (NOC), infraestructura TI y la transición hacia Blue Team / SOC**.
 
