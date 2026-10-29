@@ -27,12 +27,12 @@
 ### `WHO AM I`
 
 ```yaml
-nombre:       Alce
-perfil:       Network & Infrastructure  ──►  Defensive Security
-base:         Ciudad de México
-estudios:     Maestría en Gestión de Tecnologías de Información (en curso)
+Nombre:       Alce
+Perfil:       Network & Infrastructure  ──►  Defensive Security
+Base:         Ciudad de México
+Estudios:     Maestría en Gestión de Tecnologías de Información (en curso)
 laboratorio:  EICL · FortiGate · Huawei · Omada · Proxmox VE · VMware ESXi
-principio:    "Si no está documentado, no está terminado."
+Principio:    "Si no está documentado, no está terminado."
 ```
 
 Monto redes empresariales en mi propio laboratorio, **las rompo a propósito** y documento cómo volver a levantarlas.
