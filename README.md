@@ -24,15 +24,15 @@
 
 ---
 
-### `alce@eicl:~$ whoami`
+### `WHOAMI`
 
 ```yaml
-nombre:       Alce
-perfil:       Network & Infrastructure  ──►  Defensive Security
-base:         Ciudad de México
-estudios:     Maestría en Gestión de Tecnologías de Información (en curso)
-laboratorio:  EICL · FortiGate · Huawei · Omada · Proxmox VE · VMware ESXi
-principio:    "Si no está documentado, no está terminado."
+Nombre:       Alce
+Perfil:       Network & Infrastructure  ──►  Defensive Security
+Base:         Ciudad de México
+Estudios:     Maestría en Gestión de Tecnologías de Información (en curso)
+Laboratorio:  EICL · FortiGate · Huawei · Omada · Proxmox VE · VMware ESXi
+Principio:    "Si no está documentado, no está terminado."
 ```
 
 Monto redes empresariales en mi propio laboratorio, **las rompo a propósito** y documento cómo volver a levantarlas.
@@ -43,7 +43,7 @@ Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Tea
 
 ---
 
-### `alce@eicl:~$ stack --list`
+### `Tecnologías usadas`
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Tea
 
 </div>
 
-### `alce@eicl:~$ skills --focus`
+### `Principales Intereses`
 
 <table>
   <tr>
@@ -117,7 +117,7 @@ Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Tea
 
 ---
 
-### `alce@eicl:~$ cat featured_project.md`
+### `Proyecto Insignia`
 
 <div align="center">
 
@@ -146,7 +146,7 @@ Diseño, implementación, pruebas y evidencias saneadas de una infraestructura r
 
 ---
 
-### `alce@eicl:~$ ./methodology.sh`
+### `Metodología de trabajo`
 
 ```text
   [ AS-IS ] ──► [ DESIGN ] ──► [ DEPLOY ] ──► [ TEST ] ──► [ DOCUMENT ]
@@ -158,7 +158,7 @@ Que algo funcione es el punto de partida. Lo que me importa es entender **por qu
 
 ---
 
-### `alce@eicl:~$ git log --stats`
+### `Estadísticas de trabajo`
 
 <div align="center">
 
@@ -179,7 +179,7 @@ Que algo funcione es el punto de partida. Lo que me importa es entender **por qu
 
 ---
 
-### `alce@eicl:~$ roadmap --next`
+### `Roadmap Actual`
 
 - [x] Red base segmentada con VLANs y firewall perimetral
 - [x] Documentación versionada con evidencias saneadas
