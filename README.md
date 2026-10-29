@@ -24,7 +24,7 @@
 
 ---
 
-### `alce@eicl:~$ whoami`
+### `WHO AM I`
 
 ```yaml
 nombre:       Alce
@@ -43,7 +43,7 @@ Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Tea
 
 ---
 
-### `alce@eicl:~$ stack --focus`
+### `Principales intereses`
 
 <table>
   <tr>
@@ -81,7 +81,7 @@ Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Tea
 
 ---
 
-### `alce@eicl:~$ cat featured_project.md`
+### `Proyecto principal`
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Diseño, implementación, pruebas y evidencias saneadas de una infraestructura r
 
 ---
 
-### `alce@eicl:~$ ./methodology.sh`
+### `Metodología de trabajo`
 
 ```text
   [ AS-IS ] ──► [ DESIGN ] ──► [ DEPLOY ] ──► [ TEST ] ──► [ DOCUMENT ]
@@ -122,7 +122,7 @@ Que algo funcione es el punto de partida. Lo que me importa es entender **por qu
 
 ---
 
-### `alce@eicl:~$ roadmap --next`
+### `Roadmap Actual`
 
 - [x] Red base segmentada con VLANs y firewall perimetral
 - [x] Documentación versionada con evidencias saneadas
