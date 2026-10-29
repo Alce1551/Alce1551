@@ -1,83 +1,147 @@
 <div align="center">
 
-<img src="./assets/alce-banner.svg" alt="ALCE | Networks, Infrastructure & Security" width="100%" />
+<a href="https://github.com/Alce1551/EICL-HOMELAB">
+  <img src="assets/alce-banner.svg" alt="ALCE | Networks, Infrastructure & Security" width="100%">
+</a>
 
-**Infrastructure first. Security by design. Documentation always.**
+<a href="https://github.com/Alce1551/EICL-HOMELAB">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1400&color=36BCF7&center=true&vCenter=true&width=620&lines=Infrastructure+first.;Security+by+design.;Documentation+always.;Si+no+est%C3%A1+documentado%2C+no+est%C3%A1+terminado." alt="Infrastructure first. Security by design. Documentation always.">
+</a>
 
-[**🌐 Explorar mi portafolio**](https://github.com/Alce1551/EICL-HOMELAB) · [**📐 Arquitectura**](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/architecture.md) · [**🧪 Implementaciones**](https://github.com/Alce1551/EICL-HOMELAB/tree/main/labs)
+<br>
+
+<img src="https://img.shields.io/badge/Focus-NOC%20%E2%86%92%20Blue%20Team%20%2F%20SOC-0d1117?style=flat-square&labelColor=36BCF7&color=0d1117" alt="Focus">
+<img src="https://img.shields.io/badge/Lab-EICL%20activo-0d1117?style=flat-square&labelColor=2ea043&color=0d1117" alt="Lab activo">
+<img src="https://img.shields.io/badge/Base-CDMX%20%F0%9F%87%B2%F0%9F%87%BD-0d1117?style=flat-square&labelColor=8957e5&color=0d1117" alt="CDMX">
+
+<br><br>
+
+[**🌐 Portafolio**](https://github.com/Alce1551/EICL-HOMELAB) &nbsp;·&nbsp;
+[**📐 Arquitectura**](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/architecture.md) &nbsp;·&nbsp;
+[**🧪 Laboratorios**](https://github.com/Alce1551/EICL-HOMELAB/tree/main/labs)
 
 </div>
 
 ---
 
-### `> whoami`
+### `alce@eicl:~$ whoami`
 
-Soy **Alce**. Me interesan las **redes empresariales, la infraestructura, la virtualización y la ciberseguridad**. Construyo entornos de práctica, verifico su comportamiento y documento cómo funcionan, qué falló y cómo se resolvió.
-
-Actualmente curso una **maestría orientada a la gestión de tecnologías de información** y enfoco mi desarrollo profesional en **Network Operations (NOC), infraestructura TI y la transición hacia Blue Team / SOC**.
-
-### `> stack --focus`
-
-| Dominio | Tecnologías y prácticas |
-|:--|:--|
-| 🌐 **Networking** | TCP/IP · Switching & Routing · VLAN 802.1Q · STP · Trunking · ACL · Troubleshooting |
-| 🛡️ **Security** | FortiOS / Fortinet · Políticas de firewall · Segmentación · Principio de mínimo privilegio · Acceso administrativo seguro |
-| 🖥️ **Systems & Virtualization** | Linux · Proxmox VE · VMware ESXi · Máquinas virtuales · Redes virtualizadas |
-| 🧩 **Engineering workflow** | Git · LaTeX · Bash · Documentación técnica · Validación de conectividad · Control de cambios |
-
-### `> featured_project`
-
-#### 🛰️ [EICL — Enterprise Infrastructure & Cybersecurity Lab](https://github.com/Alce1551/EICL-HOMELAB)
-
-Mi proyecto técnico principal: documentación versionada de una infraestructura de redes y virtualización, con decisiones de diseño, procedimientos de implementación, pruebas y evidencias saneadas.
-
-| ✅ Implementado y documentado | 🔧 En desarrollo | 🧭 Siguiente etapa |
-|:--|:--|:--|
-| Red base, VLANs, segmentación, políticas de firewall, switching y pruebas de conectividad | Consolidación de virtualización con Proxmox VE y VMware ESXi | Servicios de infraestructura, monitoreo, centralización de logs y prácticas Blue Team |
-
-**Ver evidencias:** [Diseño de red](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/architecture.md) · [Plan de VLANs](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/vlan-plan.md) · [Implementación](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/implementation.md) · [Repositorio completo](https://github.com/Alce1551/EICL-HOMELAB)
-
-### `> methodology`
-
-```text
-[ AS-IS ] ──> [ DESIGN ] ──> [ DEPLOY ] ──> [ TEST ] ──> [ DOCUMENT ]
-                  ↑                                │
-                  └────────── [ IMPROVE ] <────────┘
+```yaml
+nombre:       Alce
+perfil:       Network & Infrastructure  ──►  Defensive Security
+base:         Ciudad de México
+estudios:     Maestría en Gestión de Tecnologías de Información (en curso)
+laboratorio:  EICL · FortiGate · Huawei · Omada · Proxmox VE · VMware ESXi
+principio:    "Si no está documentado, no está terminado."
 ```
 
-No se trata solo de lograr que algo funcione: busco comprender **por qué funciona**, **cómo diagnosticarlo** y **cómo reproducir el resultado** con documentación útil.
+Monto redes empresariales en mi propio laboratorio, **las rompo a propósito** y documento cómo volver a levantarlas.
 
-<details>
-<summary><strong>🧭 Qué sigue en mi ruta técnica</strong></summary>
+Me interesa lo que pasa entre el cable y el firewall: cómo se segmenta una red, por qué un paquete no llega y cómo se deja todo listo para que otra persona lo entienda sin preguntarme.
 
-- Fortalecer operaciones de switching, routing y troubleshooting en escenarios empresariales.
-- Profundizar en virtualización, segmentación y gestión de servicios Linux.
-- Implementar monitoreo, registro centralizado de eventos y prácticas de análisis defensivo.
-- Mantener un portafolio de proyectos con pruebas, decisiones técnicas y lecciones aprendidas.
+Mi ruta va de **Network Operations (NOC)** e infraestructura TI hacia **Blue Team / SOC**, con cada paso respaldado por evidencia en este perfil.
 
-</details>
+---
+
+### `alce@eicl:~$ stack --focus`
+
+<table>
+  <tr>
+    <td><b>🌐 Networking</b></td>
+    <td>TCP/IP · Switching & Routing · VLAN 802.1Q · STP · Trunking · ACL · Troubleshooting</td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Security</b></td>
+    <td>FortiOS · Políticas de firewall · Segmentación · Mínimo privilegio · Acceso administrativo seguro</td>
+  </tr>
+  <tr>
+    <td><b>🖥️ Systems</b></td>
+    <td>Linux · Proxmox VE · VMware ESXi · Redes virtualizadas</td>
+  </tr>
+  <tr>
+    <td><b>🧩 Workflow</b></td>
+    <td>Git · Bash · LaTeX · Control de cambios · Documentación técnica</td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet">
+<img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei">
+<img src="https://img.shields.io/badge/Omada-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white" alt="Omada">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox">
+<img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi">
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+
+</div>
+
+---
+
+### `alce@eicl:~$ cat featured_project.md`
+
+<div align="center">
+
+## 🛰️ [EICL — Enterprise Infrastructure & Cybersecurity Lab](https://github.com/Alce1551/EICL-HOMELAB)
+
+**Una red empresarial completa, construida en casa y documentada como si fuera de producción.**
+
+</div>
+
+Diseño, implementación, pruebas y evidencias saneadas de una infraestructura real: firewall perimetral, switching segmentado por VLAN y virtualización. Cada decisión queda registrada con su porqué.
+
+| Estado | Alcance |
+|:--|:--|
+| ✅ **Operativo** | Red base · VLANs y segmentación · Políticas de firewall · Switching · Pruebas de conectividad |
+| 🔧 **En construcción** | Consolidación de virtualización con Proxmox VE y VMware ESXi |
+| 🧭 **Siguiente** | Servicios de infraestructura · Monitoreo · Centralización de logs · Prácticas Blue Team |
+
+<div align="center">
+
+[**Diseño de red**](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/architecture.md) &nbsp;·&nbsp;
+[**Plan de VLANs**](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/vlan-plan.md) &nbsp;·&nbsp;
+[**Implementación**](https://github.com/Alce1551/EICL-HOMELAB/blob/main/docs/implementation.md) &nbsp;·&nbsp;
+[**Repositorio completo →**](https://github.com/Alce1551/EICL-HOMELAB)
+
+</div>
+
+---
+
+### `alce@eicl:~$ ./methodology.sh`
+
+```text
+  [ AS-IS ] ──► [ DESIGN ] ──► [ DEPLOY ] ──► [ TEST ] ──► [ DOCUMENT ]
+                    ▲                                          │
+                    └──────────────── [ IMPROVE ] ◄────────────┘
+```
+
+Que algo funcione es el punto de partida. Lo que me importa es entender **por qué funciona**, **cómo diagnosticarlo cuando falla** y **cómo repetirlo** a partir de la documentación.
+
+---
+
+### `alce@eicl:~$ roadmap --next`
+
+- [x] Red base segmentada con VLANs y firewall perimetral
+- [x] Documentación versionada con evidencias saneadas
+- [ ] Consolidar la capa de virtualización (Proxmox VE + ESXi)
+- [ ] Servicios Linux de infraestructura dentro del laboratorio
+- [ ] Monitoreo y registro centralizado de eventos
+- [ ] Primeros ejercicios de detección y análisis defensivo
 
 ---
 
 <div align="center">
 
-<sub><strong>ALCE1551</strong> · Network Operations / Infrastructure / Defensive Security</sub>
+**ALCE1551** · Network Operations · Infrastructure · Defensive Security
 
-<sub>Proyectos personales y documentación pública saneada. Progreso verificable, no promesas infladas.</sub>
+<sub>Proyectos personales con documentación pública saneada. Progreso verificable, no promesas infladas.</sub>
+
+<!-- Si quieres agregar contacto, descomenta y pon tu enlace:
+<br><br>
+<a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+-->
 
 </div>
-
-<!--
-**Alce1551/Alce1551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
