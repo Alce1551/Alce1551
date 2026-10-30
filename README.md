@@ -187,7 +187,7 @@ Que algo funcione es el punto de partida. Lo que me importa es entender **por qu
 - [ ] Servicios Linux de infraestructura dentro del laboratorio
 - [ ] Monitoreo y registro centralizado de eventos
 - [ ] Primeros ejercicios de detección y análisis defensivo
-
+(๐॔˃̶ᗜ˂̶๐॓)
 ---
 
 <div align="center">
